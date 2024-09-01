@@ -1,2 +1,2 @@
-# FCC-DataAnalysisWithPython-Projects
-Projects for the course Data Analysis with Python on FreecodeCamp
+# FreeCodeCamp-Data-Analysis-with-Python-Course
+contains study notes and assignments solutions.
